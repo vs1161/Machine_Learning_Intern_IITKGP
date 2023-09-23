@@ -52,11 +52,13 @@ Below is the performance metrics of the classifier:
 ![experiment2_metric](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/aeb16af1-25a3-4614-804d-9cefb6c1f3d7)
 
 # experiment - 3
-![experiment3](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/910f5865-a5a6-43cc-b068-95ed2f4895a4)
+![experiment3](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/890f0d0e-1e2d-4b9c-933e-dd395923f14b)
+
 
 
 # experiment - 4
-![experiment4](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/102adb3a-d6b1-485d-96b4-104091256936)
+![experiment4](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/0a5956a4-7b36-4bef-88e9-28dec0a132bd)
+
 
 
 # Feature Recognition: Extracting Data From Material Project Database
