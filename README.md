@@ -28,3 +28,12 @@ The feature importance is generated from the random forest classifier model and 
 
 Below is the variation of K value in KNN and the number of estimators in AdaBoost with accuracy has been shown:
 ![knn_adaboost](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/0ff8ea5c-46c4-4981-99ca-dd6b253e23c0)
+
+
+# ANN Classifier 
+The same dataset has also been trained in the ANN model and effort has been made to increase its performance, The ANN model in the reviewed paper is implemented using keras and tensorflow while in this work Pytorch has been used. Initially, the hyperparameters have been kept the same as stated in the research paper, and then various experiments have been performed. 
+
+# experiment -1 
+Based on initial parameters the model accuracy has been experimented on different split ration to observe the dependency of the split ratio of the dataset on model accuracy and all the trials made can be observed below:
+![ann_timestamps_trial](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/95fc3ba2-2acd-4d31-89a7-6c51019458f1)
+
