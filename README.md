@@ -16,5 +16,6 @@ The sample of the generated final formula dataset and the methods used during fe
 ![final_formula_df](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/325aaa7c-85d8-437c-8b9d-94f774662cd3)
 
 # Results 
-The above-generated dataset has been tried on various ML models and the obtained results is presented below:
-![various_models](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/87024bac-207c-44a0-bc81-33d3ce6220aa)
+The above-generated dataset has been tried on various ML models, and the obtained results are presented below:
+![various_models2](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/af20abfc-713a-4425-8427-b7f7a5943241)
+
