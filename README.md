@@ -17,6 +17,8 @@ The sample of the generated final formula dataset and the methods used during fe
 
 # Results 
 The above-generated dataset has been tried on various ML models, and the obtained results are presented below:
+
+RFC[1] is the model accuracy of the research paper which is being validated 
 ![various_models](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/6001963b-6b3c-42ad-97ca-7862c29f0abb)
 
 
