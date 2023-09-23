@@ -45,3 +45,5 @@ Also, the learning curve has also been tracked for each case to track the overfi
 
 # experiment - 2 
 Now proceeding with the 80:10:10 split of data 
+![experiment-2_des](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/4fa6c846-bbd9-4926-a263-78a5adb1905f)
+
