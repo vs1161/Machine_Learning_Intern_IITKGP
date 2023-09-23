@@ -31,13 +31,16 @@ Below is the variation of K value in KNN and the number of estimators in AdaBoos
 
 
 # ANN Classifier 
+
 The same dataset has also been trained in the ANN model and effort has been made to increase its performance, The ANN model in the reviewed paper is implemented using keras and tensorflow while in this work Pytorch has been used. Initially, the hyperparameters have been kept the same as stated in the research paper, and then various experiments have been performed. 
 
 # experiment - 1 
+
 Based on initial parameters the model accuracy has been experimented on different split ration to observe the dependency of the split ratio of the dataset on model accuracy and all the trials made can be observed below:
 ![ann_timestamps_trial](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/95fc3ba2-2acd-4d31-89a7-6c51019458f1)
 
-Also, the learning curve has also been tracked for each case to track the overfitting and underfitting of model, It was observed that model having two hidden layers was prone to overfit without dropout layer and without regularisation , one of the sample tracking is presented below:
+Also, the learning curve has also been tracked for each case to track the overfitting and underfitting of the model, It was observed that the model having two hidden layers was prone to overfit without dropout layer and without regularisation, one of the sample tracking is presented below:
+![learningcurve](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/1932eccd-3d8d-4189-a4a1-1c510fbaed22)
 
 
 # experiment - 2 
