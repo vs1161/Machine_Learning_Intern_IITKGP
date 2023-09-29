@@ -1,6 +1,12 @@
+# Description of Intern 
+Intern title **"Data Driven Machine Learning and Deep Learning Approach for Discovery of Stable Spintronic Materials"**
+
+This internship work I did in the Computer Science Department, IIT Kharagpur under Dr. Pawan Goyal. I was assigned to create a magnetic material classifier that should be able to classify a cubic material as magnetic or non-magnetic. The data for this work is taken from [Siriwardane, Edirisuriya, Yong Zhao, and Jianjun Hu. "Data-Driven Deep Generative Design of Stable Spintronic Materials." (2023)]. I created magnetic material classifiers using various ML models such as **Random Forest Classifier, Logistic Regression, KNN, Decision Tree, and XgBoost classifier** and compared the results also made efforts to increase their accuracy using methods (Random Search CV and Grid Search CV). I also implemented an **Artificial Neural Network (ANN)** magnetic material classifier using Pytorch and made significant efforts to improve its accuracy using the **Ray-Tune** technique. I validated all results presented in the paper and made an effort to boost model accuracy. I also tried to extract the data directly from the Material Project Database leveraging Pymatgen in Python for this purpose to recognise the features considered.
+
+One can find the Report of this work in above DOCX file.
+
 # Objective of Intern
 
-Ref: Siriwardane, Edirisuriya, Yong Zhao, and Jianjun Hu. "Data-Driven Deep Generative Design of Stable Spintronic Materials." (2023).
 
 ![objective](https://github.com/vs1161/Machine_Learning_Intern_IITKGP/assets/106301220/1d33e04b-f552-4169-9c58-bc7ea9619094)
 
